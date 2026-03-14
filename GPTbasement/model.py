@@ -192,7 +192,7 @@ class GPT(nn.Module):
             logprobs = F.log_softmax(logits, dim=-1)  # (B, vocab_size)
 
             # 第1步：重复惩罚
-            logits = self.use_repetition_penalty(x,logits,repetition_penalty,B,T)
+            logits = self.use_repetition_penalty(x,logits,repetition_penalty,B,original_T)
             # 第2步：温度调节
             logits = self.use_temperature(logits,temperature)
 
