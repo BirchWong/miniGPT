@@ -6,7 +6,7 @@ All core algorithm implementations are located in the **`GPTbasement`** folder f
 
 On an RTX 5090 Laptop GPU, setting the batch size to 24 results in approximately 30 minutes per epoch. Running for 10 epochs can yield good performance.
 
-## Explanation of Basic Principles
+## Explanation of Basic Principles (About 30 mins)
 
 YouTube: https://youtu.be/haRzBb9Jv0A?si=BrSci2tG63KCLh5j  
 
