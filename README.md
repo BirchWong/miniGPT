@@ -8,9 +8,9 @@ On an RTX 5090 Laptop GPU, setting the batch size to 24 results in approximately
 
 ## Explanation of Basic Principles (About 30 mins)
 
-YouTube: https://youtu.be/haRzBb9Jv0A?si=BrSci2tG63KCLh5j  
+YouTube (English): https://youtu.be/haRzBb9Jv0A?si=BrSci2tG63KCLh5j  
 
-bilibili: https://www.bilibili.com/video/BV1EQwWzXEDe/?share_source=copy_web&vd_source=2ce5fc590d6295912fe2a2acc28f2f04
+bilibili (Chinese): https://www.bilibili.com/video/BV1EQwWzXEDe/?share_source=copy_web&vd_source=2ce5fc590d6295912fe2a2acc28f2f04
 
 ## Dependencies
 
